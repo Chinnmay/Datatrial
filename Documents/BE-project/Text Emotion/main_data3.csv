@@ -1,0 +1,34 @@
+meme id,Manual Emotion,Machine Image  Labeling,Text on image (Manual),Manual Textual Emotion labelling(7 categories),Combined trigger words,Percentage trigger words,Manual Textual labelling (pun/sarcasm),Overall sentiment
+0,Hillary Clinton : surprise,Hilary Clinton: neutral,DID YOU KNOW 1 OUT OF 3 HILLARY SUPPORTERS ARE  JUST  AS STUPID  AS THE OTHER 2,angry,stupid,5.88,sarcasm,negative
+6,Donald Trump : neutral,Donald Trump: angry,"IF YOU DISLIKE  TRUMP, YOU SHOULD HELP VOTE HIM  IN . IN THIS WAY, WE CAN CHANGE HIS PARTY FROM WITHIN. YES, HILLARY SUPPORTERS, THIS IS HOW RIDICULOUS YOU SOUND",angry,"ridiculous, dislike, VOTE",10,pun,negative
+11,Hillary Clinton : sad,Hilary Clinton: neutral,"""I OFTEN FEEL LIKE THERE'S THE HILLARY STANDARD.."" ""AND THERE'S THE STANDARD FOR EVERYONE ELSE""",happy,"everyon, else, standard ",20,,positive
+15,Donald Trump : sad,Donald Trump: None,TRUMP: HILLARY WILL BE ELECTED PRESIDENT ONLY OVER MY DEAD BODY AMERICA: YOU ALWAYS DID MAKE GREAT DEALS DONALD. WE ACCEPT.,happy,"great, accept ,DEAD BODY, DEALS",19.05,sarcasm,positive
+16,"Hillary Clinton : sad, Donald Trump : sad",Hilary Clinton: angry,ARE THESE TWO REALLY THE BEST WE CAN COME UP WITH ?,disgust,"really ,BEST",16.67,,negative
+21,Donald Trump : happy,"Donald Trump: happy, Donald Trump: None",HAS BEEN REGULARLY CRITICIZING HILLARY'S SPOUSE FOR THINGS THAT HE DID 20+ YEARS AGO DISMISSES HIS OWN BEHAVIOUR BECAUSE IT HAPPENED OVER 11 YEARS AGO,angry,"CRITICIZING,DISMISSES, BEHAVIOUR",12,sarcasm,negative
+27,Bad Luck Brian : happy,Bad Luck  Brian: happy,"SPENDS THE LAST 3 YEARS DIGGING ON HILLARY CLINTON'S EMAIL SCANDAL ON HIS RADIO AND TV SHOWS ""NO CHARGES"" ANNOUNCED BY FBI DIRECTOR TODAY",disgust,"digging ,EMAIL SCANDAL",8.33,sarcasm,negative
+44,Donald Trump : angry,Donald Trump: angry,"""WHAT HAVE YOU GOT TO LOSE?"" TRUMP 2016",sad,lose,12.5,sarcasm,positive
+46,Bad Luck Brian : happy,Bad Luck Brian: happy,SAYS WILL MOVE TO CANADA IF TRUMP IS NOMINEE CANADA BURNS DOWN,sad,"move, NOMINEE, BURNS DOWN",25,sarcasm,negative
+67,Unknown : happy,unknown: happy,"PUTS COUNTRY AHEAD OF PARTY DOES NOT ENDORSE TRUMP,DISTANCES HIMSELF FROM REPUBLICAN CONVENTION ",happy,"country ahead,  ENDORSE, REPUBLICAN CONVENTION",23.08,,positive
+77,Hillary Clinton : happy,Hilary Clinton: happy,WANTS TO WIN PRESIDENCY FAIR AND SQUARE. ADVISES TRUMP TO DELETE HIS TWITTER ACCOUNT TO PREVENT SELF-SABOTAGE,neutral,"advices ,FAIR AND SQUARE, SELF-SABOTAGE",17.65,sarcasm,negative
+94,Hillary Clinton : happy,"Hilary Clinton: angry, unknown : none","WHAT IF I TOLD YOU TRUMP HAS BEEN WORKING FOR ME THIS WHOLE TIME AND PEOPLE FELL FOR THE HOOK, LINE AND SINKER.",surprise,what if I told you ,4.35,,positive
+110,"Hillary Clinton : happy, Donald Trump : happy","Hilary Clinton: disgust, Donald Trump: disgust",IT AMAZES ME HOW SOME PEOPLE BELIEVE EVERY LIE THEY HEAR ABOUT TRUMP... THEY REFUSE TO BELIEVE THE TRUTH ABOUT HILARY,sad,"amazes, LIE, TRUTH",14.29,,negative
+126,Bad Luck Brian : happy,Bad Luck Brian: happy,TRUMP SUPPORTERS HATE ME BECAUSE I LIKE BERNIE. BERNIE SUPPORTERS HATE ME BECAUSE I LIKE TRUMP,sad,hate,6.25,,negative
+128,Donald Trump : angry,Donald Trump: disgust,TRUMP'S FACE LOOKS LIKE AN ACCIDENT AT THE ANUS BLEACHING SALON,sad,"tragic, accident",18.18,sarcasm,negative
+139,"Donald Trump : happy, unknown : happy","Donald Trump: None, unknown: disgust",PERHAPS I'LL BE DATING HER IN 14 YEARS,happy,"perhaps, happy ,DATING",37.5,sarcasm,negative
+150,Barack Obama : sad,Barack Obama: None,"A POST THAT ISN'T FROM R/THE_DONALD FUCK IT, HAVE AN UPVOTE",, UPVOTE,9.09,,negative 
+175,unknown : happy,unknown: happy,NORMALLY BJP CONGRESS DON'T GET UNITED BUT WHEN I SAY THEY DO.,happy, UNITED,8.33,,Neutral
+185,Arvind kejriwal : neutral,"Arvind Kejriwal: disgust, unknown : none",KEJRIWAL IS SO HONEST THAT HE ACTUALLY ROLLS ON THE FLOOR LAUGHING WHILE TEXTING 'ROFL',neutral, ROFL,6.67,,Neutral
+186,Rahul Gandhi :None,Rahul Gandhi: None,THE DALITS COW I MILKED TO WIN IN UTTAR PRADESH WAS A BULL,neutral, BULL,7.69,,Neutral
+190,Arvind Kejriwal : sad,Arvind Kejriwal: disgust,Modi dares Kejriwal for the Ice Bucket Challenge AAP sees conspiracy to worsen Kejriwal's coughing,neutral, ,0,,Neutral
+195,Rahul Gandhi : happy,Rahul Gandhi: happy,RAHUL GANDHI PRESSED AAP BUTTON ON EVM HOPING IT REFERRED TO HIM,neutral, EVM,8.33,,Neutral
+202,Manmohan Singh : None,unknown : none,STILL A BETTER SPEAKER THAN RAHUL GANDHI,-, SPEAKER,14.29,,Negative
+204,Arvind Kejriwal : neutral,Arvind Kejriwal: happy,CLAIMED 100 SEATS DELIVERED IN BINARY!,neutral, BINARY,16.67,,
+206,Arvind Kejriwal : happy,"Manmohan Singh: None, Arvind Kejriwal: None, Narendra Modi: happy, Arvind Kejriwal: happy, unknown: None","I DON'T CARE WHO YOU ARE, BUT I'LL FIND YOU, AND WILL CONTEST ELECTION AGAINST YOU",neutral, CONTEST ELECTION,6.25,,Neutral
+213,unknown : happy,Manmohan Singh: happy,DON'T FORGET TO CASTE YOUR VOTE!,neutral, VOTE,16.67,,Positive
+187,Arvind Kejriwal : happy,Arvind Kejriwal: happy,"KEJRIWAL IS SO HONEST THAT NO WOMAN HAS EVER ASKED HIM ""DO I LOOK FAT""",-, HONEST,6.67,,
+184,Rahul Gandhi : happy,"Rahul Gandhi: happy, unknown : none",GOES TO GIVE AN INTERVIEW AFTER 10 YEARS ARNAB GOSWAMI,happy," INTERVIEW, ARNAB GOSWAMI",20,,Negative
+196,"Manmohan Singh : neutral, unknown : happy, Narendra Modi : neutral, Sonia Gandhi : neutral","Manmohan Singh: disgust, unknown: happy, Narendra Modi: disgust, Sonia Gandhi: disgust",INDIA IS BEING RUN ON TRIAL AND ERROR CONGRESS HAS ALREADY ERRED. BJP IS GOING TO BE ON TRIAL NOW!,-, TRIAL AND ERROR,5,,"Negative
+"
+189,"unknown : happy, Narendra Modi : happy","unknown: None, Narendra Modi: None",AND THEN I SAID ... GIRL MALNUTRITION IS DUE TO FIGURE CONSCIOUSNESS,neutral," MALNUTRITION, FIGURE CONSCIOUSNESS",16.67,,Neutral
+214,Rahul Gandhi: happy,,VICTORY IS STATE OF MIND!,happy,victory,,,Neutral
+215,Arvind Kejriwal : happy,,"Kejriwal is so honest that He never gave ""Lag"" as a reason for being killed in Counter Strike",happy,honest,,,neutral
